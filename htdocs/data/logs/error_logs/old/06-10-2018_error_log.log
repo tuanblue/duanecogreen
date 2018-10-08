@@ -1,0 +1,3 @@
+[Sat, 06 Oct 2018 17:14:26 +0700] [localhost] [::1] [Notice(8): Undefined index: ] [FILE: /includes/xtemplate.class.php] [LINE: 1210]
+[Sat, 06 Oct 2018 17:18:38 +0700] [localhost] [::1] [Error(1): Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes)] [FILE: /modules/menu/admin/rows.php] [LINE: 430]
+[Sat, 06 Oct 2018 17:18:49 +0700] [localhost] [::1] [Error(1): Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes)] [FILE: /modules/menu/admin/rows.php] [LINE: 431]
